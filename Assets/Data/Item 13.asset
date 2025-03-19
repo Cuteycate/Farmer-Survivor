@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30d133a4550afe141b6536940e9e8c46, type: 3}
+  m_Name: Item 13
+  m_EditorClassIdentifier: 
+  itemType: 13
+  itemId: 13
+  itemName: Axe
+  itemDesc:
+  - Throw an axe that spirals outward from the player.
+  - 'Increase attack size by {3}%.
+
+    Increase Damage by {0}%'
+  - Add {1} Extra Axe
+  - 'Increase attack size by {3}%
+
+    Increase Damage by {0}%'
+  - 'Increase Damage By {0}%
+
+    Increase Hit Limit by 2'
+  - Increase attack size by {3}%.
+  - 'Increase Damage By {0}%
+
+'
+  - Remove hit limit.
+  itemIcon: {fileID: 5367504489243420210, guid: a412965c220eabf449947809d2387dee, type: 3}
+  baseDamage: 12
+  baseCount: 1
+  basePenetration: 10
+  baseCoolDown: 8
+  baseSize: 0.6
+  HitCooldown: 0.83
+  damages:
+  - 0
+  - 0.3
+  - 0
+  - 0.33
+  - 0.5
+  - 0
+  - 0.75
+  - 0
+  counts: 0000000000000000010000000000000000000000000000000000000000000000
+  penetrations: 00000000000000000000000000000000050000000000000000000000f0ffffff
+  sizes:
+  - 0
+  - 0.2
+  - 0
+  - 0.2
+  - 0
+  - 0.5
+  - 0
+  - 0
+  projectiles: {fileID: 2514192426124917062, guid: cb301dcc27f29494cbd4814122078739, type: 3}
+  HitEffect: {fileID: 0}
+  hand: {fileID: 0}

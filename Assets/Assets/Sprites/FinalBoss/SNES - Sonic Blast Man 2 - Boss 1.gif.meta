@@ -1,0 +1,1670 @@
+fileFormatVersion: 2
+guid: cd4395d4ed5acab4a97b4e6ac7586d38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 545
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed4b75dafb149419b24794a773b649
+      internalID: -2132323769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 545
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111cf1843f32034fa49a025e9bcc586
+      internalID: 757330253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 546
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4175b5fd9b912459077fd6c0550683
+      internalID: -1545227179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 546
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888a36dcaf3312419688a5b5a42665c
+      internalID: 778547014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 549
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf630615f9f55d48bb30e5df0b7fa6b
+      internalID: 1279799940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 553
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3113c2ee7c6df4aaf15019d2481c8b
+      internalID: -1789658155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 554
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6fc038a682a94ba9a9e76752fca52
+      internalID: -456078771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 592
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3c5e94c258d640911944c60156c84
+      internalID: 1893854526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_8
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 581
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705fb558be07254fa520e61fe436d1b
+      internalID: 841744823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 579
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a302bf59c1e5244b7f0df9254531b4
+      internalID: -387681695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 579
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f4a7d33503ea42b0491cbc34f3e0f
+      internalID: 184350221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474d165e32682f46a8d2ec40f46421a
+      internalID: -816815652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_12
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 579
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee2cca84981c94a91777d99cf297dd
+      internalID: 368311976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 568
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140d6f83671fe040a44bd9fd0e8eaae
+      internalID: 1238335281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_14
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 570
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33e84e506aa1b47b26bc6009d153da
+      internalID: -385749631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273964a381618a8418a22dfff9a698bb
+      internalID: -1225105360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 570
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5671c1dea1d1a44993cb200e8e56e39
+      internalID: -1145658236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 570
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d76335020231b4ca239a296f877b1a
+      internalID: 1010618820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 417
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d806b7b18fb245a545fed7f33309c
+      internalID: 1175608722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 415
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a88620ea59ab1449b5fcba13410966
+      internalID: -1460943940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 412
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b49aea34fbd9429fd6df788d38b87
+      internalID: 142955173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 414
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813d0dc55d12b949a27fe8da3e0dc87
+      internalID: 301505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 414
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b8f38e4ae3e24392abb18fc183567
+      internalID: -2068479068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 415
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aba12c92459e6419ca310a72583cb4
+      internalID: 1857526826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_24
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 416
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83c96d11fc63143a42a573a311da5d
+      internalID: -867853526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 299
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21723862c1764d4f979730fe83aab6e
+      internalID: 2049554308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 299
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8f3264b7414d4483e66138b60c54b
+      internalID: -562808470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 301
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441f09a8a7aaf654a8683f5342b7636a
+      internalID: 1948472104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 301
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3701685ca43c71c46af3027e43378d45
+      internalID: -1483746713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 304
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c4ba58158bde4596e1c01db2c1140
+      internalID: 2106228505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 349
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19fd2a1bf6b7f64484f1071116227b1
+      internalID: -1050472169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_31
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 348
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fcf3d6c5397846870f806d8031c3d
+      internalID: 1572316961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_32
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 343
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b0e6788f88b14a838bb351355ac41
+      internalID: -1245282209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 344
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c3254821c107469d78c1ceffd3c89
+      internalID: -1064380540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 315
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f9a25dcbe1c9478ae93ab4c8ac430
+      internalID: -125054523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 302
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789391f59ed25d43a556018f6a459f3
+      internalID: 727850840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 297
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534178789f9525a488b8ac1bf4cbf960
+      internalID: 600178287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 310
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447fc5e5ebf095f498fe4df0c238bc6d
+      internalID: -476682525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1a491edb99c3428960822d990bf0f
+      internalID: 1507213640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 154
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637a952d9d9ef6544bd5409c23c0a48d
+      internalID: -1091781007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 217
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9639845c80e6b249b3f61c0184aeef8
+      internalID: 944776062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22421387854ea0488bfb31cf8bb5fd1
+      internalID: -987984892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 155
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e67c8d3b04824689ba6349923b28e
+      internalID: -405290879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 155
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d19b2132823a9468559e3341b0f35c
+      internalID: 1576709566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_48
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 209
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f47c33edad4134e8ff9ec5822dc566
+      internalID: 1205204049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_49
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 149
+        width: 79
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006db0b4c180c9142b04eb16c4ba1ee4
+      internalID: 1575429642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 207
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac72b1c0982d484fb9b420752d7b7b2
+      internalID: 720895008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 153
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8036440a4c0a42906fe7abf49efda
+      internalID: -926288885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3240c4cb0722a4c9d25383d75f2ab9
+      internalID: 2096076725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf719748b6d1f30439ca4d8942f50996
+      internalID: -1778460849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 186
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad12c60a231de44b209c2582e5fd2a
+      internalID: 1256237135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 185
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ada05ef2527e48afafa6bb2a43d69
+      internalID: -29332031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b615c7ee18e3a41be66ceb45a784b7
+      internalID: -1268179314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 45
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98ddd04e2c935478f9386b6175b6ba
+      internalID: 616308363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ccc77e48fd05740b5374b288086b48
+      internalID: -1943705753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_59
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 38
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac4f6523650c442b901e0197a1761b
+      internalID: 1439102583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 35
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e111afcacf2f49bb69860019a7a38
+      internalID: -720423360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 31
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5076b3832add428de7b60bfe5e4ff
+      internalID: -1783142707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_62
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 51
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e2acccc037944cbbdbc8b64489d90
+      internalID: 1857998231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_63
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 29
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74bf9d615d206744b581226df6ec6ee
+      internalID: 981429652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_64
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 29
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c0f0b95ca59ea4d89f2cd3260c3b57
+      internalID: -1970961659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 54
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c79decd206ef4ab4891fa080c312d
+      internalID: -1059641699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_66
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 42
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b718f2c5bee334f804b4dd1e14cfda
+      internalID: 1377173054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_67
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 71
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb0bd4ab1f2c74689113d63230478f
+      internalID: 404151081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_68
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 55
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe3a96db09aab84b8b258f68ad95375
+      internalID: -1066540340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a96c449d467c4385bc0b920c5623b
+      internalID: 143416665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_70
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235dcaa6a99d49e4caf313ee2221693a
+      internalID: 1191071342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_71
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 32
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f863a8d1dd241d49b3516aea8af5741
+      internalID: -437846477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_72
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 38
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfdc45171fb80459c815f64b9a0f63
+      internalID: -573227940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Sonic Blast Man 2 - Boss 1_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 291
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb110f5632a2e2f4db52409ae63f852f
+      internalID: -224616525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Sonic Blast Man 2 - Boss 1_0: -2132323769
+      SNES - Sonic Blast Man 2 - Boss 1_1: 757330253
+      SNES - Sonic Blast Man 2 - Boss 1_10: 184350221
+      SNES - Sonic Blast Man 2 - Boss 1_11: -816815652
+      SNES - Sonic Blast Man 2 - Boss 1_12: 368311976
+      SNES - Sonic Blast Man 2 - Boss 1_13: 1238335281
+      SNES - Sonic Blast Man 2 - Boss 1_14: -385749631
+      SNES - Sonic Blast Man 2 - Boss 1_15: -1225105360
+      SNES - Sonic Blast Man 2 - Boss 1_16: -1145658236
+      SNES - Sonic Blast Man 2 - Boss 1_17: 1010618820
+      SNES - Sonic Blast Man 2 - Boss 1_18: 1175608722
+      SNES - Sonic Blast Man 2 - Boss 1_19: -1460943940
+      SNES - Sonic Blast Man 2 - Boss 1_2: -1545227179
+      SNES - Sonic Blast Man 2 - Boss 1_20: 142955173
+      SNES - Sonic Blast Man 2 - Boss 1_21: 301505733
+      SNES - Sonic Blast Man 2 - Boss 1_22: -2068479068
+      SNES - Sonic Blast Man 2 - Boss 1_23: 1857526826
+      SNES - Sonic Blast Man 2 - Boss 1_24: -867853526
+      SNES - Sonic Blast Man 2 - Boss 1_25: 2049554308
+      SNES - Sonic Blast Man 2 - Boss 1_26: -562808470
+      SNES - Sonic Blast Man 2 - Boss 1_27: 1948472104
+      SNES - Sonic Blast Man 2 - Boss 1_28: -1483746713
+      SNES - Sonic Blast Man 2 - Boss 1_29: 2106228505
+      SNES - Sonic Blast Man 2 - Boss 1_3: 778547014
+      SNES - Sonic Blast Man 2 - Boss 1_30: -1050472169
+      SNES - Sonic Blast Man 2 - Boss 1_31: 1572316961
+      SNES - Sonic Blast Man 2 - Boss 1_32: -1245282209
+      SNES - Sonic Blast Man 2 - Boss 1_33: -1064380540
+      SNES - Sonic Blast Man 2 - Boss 1_34: -224616525
+      SNES - Sonic Blast Man 2 - Boss 1_35: -125054523
+      SNES - Sonic Blast Man 2 - Boss 1_36: 727850840
+      SNES - Sonic Blast Man 2 - Boss 1_37: 600178287
+      SNES - Sonic Blast Man 2 - Boss 1_38: -476682525
+      SNES - Sonic Blast Man 2 - Boss 1_39: 1168431831
+      SNES - Sonic Blast Man 2 - Boss 1_4: 1279799940
+      SNES - Sonic Blast Man 2 - Boss 1_40: -1264175874
+      SNES - Sonic Blast Man 2 - Boss 1_41: -1534425690
+      SNES - Sonic Blast Man 2 - Boss 1_42: 1507213640
+      SNES - Sonic Blast Man 2 - Boss 1_43: -1091781007
+      SNES - Sonic Blast Man 2 - Boss 1_44: 944776062
+      SNES - Sonic Blast Man 2 - Boss 1_45: -987984892
+      SNES - Sonic Blast Man 2 - Boss 1_46: -405290879
+      SNES - Sonic Blast Man 2 - Boss 1_47: 1576709566
+      SNES - Sonic Blast Man 2 - Boss 1_48: 1205204049
+      SNES - Sonic Blast Man 2 - Boss 1_49: 1575429642
+      SNES - Sonic Blast Man 2 - Boss 1_5: -1789658155
+      SNES - Sonic Blast Man 2 - Boss 1_50: 720895008
+      SNES - Sonic Blast Man 2 - Boss 1_51: -926288885
+      SNES - Sonic Blast Man 2 - Boss 1_52: 2096076725
+      SNES - Sonic Blast Man 2 - Boss 1_53: -1778460849
+      SNES - Sonic Blast Man 2 - Boss 1_54: 1256237135
+      SNES - Sonic Blast Man 2 - Boss 1_55: -29332031
+      SNES - Sonic Blast Man 2 - Boss 1_56: -1268179314
+      SNES - Sonic Blast Man 2 - Boss 1_57: 616308363
+      SNES - Sonic Blast Man 2 - Boss 1_58: -1943705753
+      SNES - Sonic Blast Man 2 - Boss 1_59: 1439102583
+      SNES - Sonic Blast Man 2 - Boss 1_6: -456078771
+      SNES - Sonic Blast Man 2 - Boss 1_60: -720423360
+      SNES - Sonic Blast Man 2 - Boss 1_61: -1783142707
+      SNES - Sonic Blast Man 2 - Boss 1_62: 1857998231
+      SNES - Sonic Blast Man 2 - Boss 1_63: 981429652
+      SNES - Sonic Blast Man 2 - Boss 1_64: -1970961659
+      SNES - Sonic Blast Man 2 - Boss 1_65: -1059641699
+      SNES - Sonic Blast Man 2 - Boss 1_66: 1377173054
+      SNES - Sonic Blast Man 2 - Boss 1_67: 404151081
+      SNES - Sonic Blast Man 2 - Boss 1_68: -1066540340
+      SNES - Sonic Blast Man 2 - Boss 1_69: 143416665
+      SNES - Sonic Blast Man 2 - Boss 1_7: 1893854526
+      SNES - Sonic Blast Man 2 - Boss 1_70: 1191071342
+      SNES - Sonic Blast Man 2 - Boss 1_71: -437846477
+      SNES - Sonic Blast Man 2 - Boss 1_72: -573227940
+      SNES - Sonic Blast Man 2 - Boss 1_8: 841744823
+      SNES - Sonic Blast Man 2 - Boss 1_9: -387681695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

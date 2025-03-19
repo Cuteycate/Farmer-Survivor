@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30d133a4550afe141b6536940e9e8c46, type: 3}
+  m_Name: Item 12
+  m_EditorClassIdentifier: 
+  itemType: 12
+  itemId: 12
+  itemName: Magnet
+  itemDesc:
+  - Character picks up items from further away
+  - Pickup range increased by {0}%
+  - Pickup range increased by {0}%
+  - Pickup range increased by {0}%
+  - Pickup range increased by {0}%
+  itemIcon: {fileID: -5023191571745468844, guid: a412965c220eabf449947809d2387dee, type: 3}
+  baseDamage: 1
+  baseCount: 0
+  basePenetration: 0
+  baseCoolDown: 0
+  baseSize: 0
+  damages:
+  - 1
+  - 0.3
+  - 0.25
+  - 0.2
+  - 0.3
+  counts: 0000000000000000000000000000000000000000
+  penetrations: 0000000000000000000000000000000000000000
+  sizes:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  projectiles: {fileID: 0}
+  HitEffect: {fileID: 0}
+  hand: {fileID: 0}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30d133a4550afe141b6536940e9e8c46, type: 3}
+  m_Name: Item 14
+  m_EditorClassIdentifier: 
+  itemType: 14
+  itemId: 14
+  itemName: Knife
+  itemDesc:
+  - 'Shoot at the
+
+    Nearest Enemy'
+  - Increase Damage By {0}%
+  - Fires {1} more projectile
+  - 'Reduce the time
+
+    between attack
+
+    by {3}'
+  - Increase Damage By {0}%
+  - 'Reduce the time
+
+    between attack
+
+    by {3}'
+  - Increase Damage By {0}%
+  - '
+
+    Fires {1} more projectile'
+  itemIcon: {fileID: -933806470407966858, guid: a412965c220eabf449947809d2387dee, type: 3}
+  baseDamage: 10
+  baseCount: 1
+  basePenetration: 0
+  baseCoolDown: 0.6
+  baseSize: 0
+  HitCooldown: 0.33
+  damages:
+  - 0
+  - 0.2
+  - 0
+  - 0
+  - 0.2
+  - 0
+  - 0.2
+  - 0
+  counts: 0000000000000000010000000000000000000000000000000000000002000000
+  penetrations: 0000000000000000000000000000000000000000000000000000000000000000
+  sizes:
+  - 0
+  - 0
+  - 0
+  - 0.33
+  - 0.33
+  - 0.5
+  - 0.5
+  - 0.5
+  projectiles: {fileID: 2514192426124917062, guid: bac452d1c34e2234089add96c2d33ff9, type: 3}
+  HitEffect: {fileID: 0}
+  hand: {fileID: 0}

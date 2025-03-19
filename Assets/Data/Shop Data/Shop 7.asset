@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f124fc7abd5a82c4f94e632b9714448b, type: 3}
+  m_Name: Shop 7
+  m_EditorClassIdentifier: 
+  shopType: 7
+  shopId: 7
+  shopName: Growth
+  shopDesc:
+  - Increase XP by {0}%
+  - Increase XP by {0}%
+  - Increase XP by {0}%
+  - Increase XP by {0}%
+  - Increase XP by {0}%
+  shopIcon: {fileID: -1064734474, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  baseNumber: 0.03
+  baseGold: 900
+  Numbers:
+  - 0.03
+  - 0.06
+  - 0.09
+  - 0.12
+  - 0.15
+  Golds: 84030000080700008c0a0000100e000094110000
+  isMaxed: 0
+  currentLevel: 0
