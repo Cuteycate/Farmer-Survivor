@@ -14,33 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemType: 12
   itemId: 12
-  itemName: Magnet
+  itemName: Health Kit
   itemDesc:
-  - Character picks up items from further away
-  - Pickup range increased by {0}%
-  - Pickup range increased by {0}%
-  - Pickup range increased by {0}%
-  - Pickup range increased by {0}%
-  itemIcon: {fileID: -5023191571745468844, guid: a412965c220eabf449947809d2387dee, type: 3}
-  baseDamage: 1
+  - Heal 30 health point.
+  itemIcon: {fileID: 927338625, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  baseDamage: 0
   baseCount: 0
   basePenetration: 0
-  baseCoolDown: 0
-  baseSize: 0
   damages:
-  - 1
-  - 0.3
-  - 0.25
-  - 0.2
-  - 0.3
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
   counts: 0000000000000000000000000000000000000000
   penetrations: 0000000000000000000000000000000000000000
-  sizes:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
   projectiles: {fileID: 0}
   HitEffect: {fileID: 0}
   hand: {fileID: 0}

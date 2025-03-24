@@ -29,32 +29,20 @@ MonoBehaviour:
   - Add {1} Extra Shovel
   - Increase Damage By {0}%
   itemIcon: {fileID: -181907988, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
-  baseDamage: 14
+  baseDamage: 5
   baseCount: 1
   basePenetration: -1
-  baseCoolDown: 0
-  baseSize: 0
-  HitCooldown: 0.2
   damages:
   - 0
   - 0
   - 0
-  - 0.25
-  - 0.25
-  - 0
-  - 0
   - 0.5
+  - 1
+  - 1
+  - 1
+  - 1.5
   counts: 0000000001000000010000000000000000000000010000000100000000000000
   penetrations: 0000000000000000000000000000000000000000000000000000000000000000
-  sizes:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
   projectiles: {fileID: 2514192426124917062, guid: 3403651a35757104da2d4bdfb1264e83, type: 3}
   HitEffect: {fileID: 0}
   hand: {fileID: 143021600, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}
