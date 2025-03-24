@@ -16,23 +16,21 @@ MonoBehaviour:
   itemId: 1
   itemName: Gun
   itemDesc:
-  - 'Shoot 2 shot at the
+  - 'Shoot at the
 
-    nearest enemy'
+    Nearest Enemy'
   - Fires {1} more projectile
-  - 'Fires {1} more projectile
-
-    Increase Damage By {0}%'
+  - Fires {1} more projectile
   - "Passes through {2} more \nEnemy"
   - Increase Damage By {0}%
-  - "Passes through {2} more \nEnemy\nIncrease Damage By {0}%"
+  - "Passes through {2} more \nEnemy"
   - Increase Damage By {0}%
   - 'Increase Damage By {0}%
 
     Fires {1} more projectile'
   itemIcon: {fileID: 563336626, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
   baseDamage: 10
-  baseCount: 2
+  baseCount: 1
   basePenetration: 1
   baseCoolDown: 3
   baseSize: 0
@@ -40,10 +38,10 @@ MonoBehaviour:
   damages:
   - 0
   - 0
-  - 0.2
+  - 0
   - 0
   - 0.3
-  - 0.3
+  - 0
   - 0.5
   - 0.75
   counts: 0000000001000000010000000000000000000000000000000000000002000000
