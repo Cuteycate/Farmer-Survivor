@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAgAAAAAAEBAAAAQAAACAAAAAEA=</HashCode>
+      <FileName>Assets\Code\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gear">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAAAAAAAQAAARAAIBAAAAAQACAABAAAE=</HashCode>
+      <FileName>Assets\Code\Gear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIABEAAAAAAAAAASCAEAAAAAAQARAAAACEA=</HashCode>
+      <FileName>Assets\Code\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scanner">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAACAAAAAAQAAAEAAIAAAACAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Scanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MURBgAIAAAAAggAABAAAAAABAAAACRAFAAACEAAAAkA=</HashCode>
+      <FileName>Assets\Code\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hand">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAgAAAAAIAAAAAIAAAABAAAAAAhQAEA=</HashCode>
+      <FileName>Assets\Code\Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAIAAAAAAQBAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQEAAAAIgAQACAAAAAAIQAAAkBACQAAAQACAABACEI=</HashCode>
+      <FileName>Assets\Code\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemData">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ItemData.ItemType">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Code\ItemData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAAgBAAAEAFAAhAAAAAABABCEAAAAAA=</HashCode>
+      <FileName>Assets\Code\ItemData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.ScriptableObject">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
