@@ -25,12 +25,9 @@ MonoBehaviour:
   - 'Increase {0}% Damage '
   - "Increase {0}% Damage \nIncrease Radius {1}%"
   itemIcon: {fileID: -344242777, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
-  baseDamage: 12
+  baseDamage: 5
   baseCount: 0
   basePenetration: -1
-  baseCoolDown: 2
-  baseSize: 0
-  HitCooldown: 0.5
   damages:
   - 0
   - 0.4
@@ -42,15 +39,6 @@ MonoBehaviour:
   - 2.5
   counts: 0000000000000000000000000100000001000000000000000000000001000000
   penetrations: 0000000000000000000000000000000000000000000000000000000000000000
-  sizes:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
   projectiles: {fileID: 5988079196804604719, guid: fa12fb69aa9560949ac7cdb7fa8ba7ac, type: 3}
   HitEffect: {fileID: 0}
   hand: {fileID: 1349035616, guid: 0d5e657ee5a074e4baa53d5b248a01d2, type: 3}

@@ -35,8 +35,6 @@ MonoBehaviour:
   baseDamage: 0
   baseCount: 0
   basePenetration: 0
-  baseCoolDown: 0
-  baseSize: 0
   damages:
   - 0.08
   - 0.16
@@ -45,12 +43,5 @@ MonoBehaviour:
   - 0.4
   counts: 0000000000000000000000000000000000000000
   penetrations: 0000000000000000000000000000000000000000
-  sizes:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
   projectiles: {fileID: 0}
-  HitEffect: {fileID: 0}
   hand: {fileID: 0}
