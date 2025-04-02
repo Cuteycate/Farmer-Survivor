@@ -31,7 +31,7 @@ public class Player : MonoBehaviour
     private bool isDashing;
     private float dashingPower = 24f;
     private float dashinhTime = 0.2f;
-    private float dashingCooldown = 5f;
+    private float dashingCooldown = 7f;
 
     [SerializeField] private Slider skillcooldown;
     [SerializeField] private TrailRenderer tr;
@@ -43,13 +43,13 @@ public class Player : MonoBehaviour
     [HideInInspector]
     public bool isDWing;
     private float DWtime = 5f;
-    private float DWCooldown = 25f;
+    private float DWCooldown = 30f;
 
     //Knife
     [HideInInspector]
     private bool canKnife = true;
     private bool isKnife = false;
-    private float knifeCooldown = 20f;
+    private float knifeCooldown = 25f;
     private float numberOfKnives = 50f;
     private float speedKnife = 1.5f;  
     private float[] Rotaion = {20, 40, 60, 80, 100, 120, 140, 160, 180};
@@ -61,8 +61,8 @@ public class Player : MonoBehaviour
     private bool canSpawn = true;
     private bool isSpawning = false;
     private float numberOfSolider = 5;
-    private float spawnCooldown = 30f;
-    private float timeToDestroy = 15f;
+    private float spawnCooldown = 45f;
+    private float timeToDestroy = 20f;
 
     // Start is called before the first frame update
     void Awake()
