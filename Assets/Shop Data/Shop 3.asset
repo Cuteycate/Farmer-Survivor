@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f124fc7abd5a82c4f94e632b9714448b, type: 3}
+  m_Name: Shop 3
+  m_EditorClassIdentifier: 
+  shopType: 3
+  shopId: 3
+  shopName: MoveSpeed
+  shopDesc:
+  - Increase movement speed by {0}%
+  - Increase movement speed by {0}%
+  - Increase movement speed by {0}%
+  - Increase movement speed by {0}%
+  - Increase movement speed by {0}%
+  shopIcon: {fileID: -966295699, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  baseNumber: 0.1
+  baseGold: 300
+  Numbers:
+  - 0.05
+  - 0.1
+  - 0.15
+  - 0.2
+  - 0.25
+  Golds: 2c0100005802000084030000b0040000dc050000
+  isMaxed: 0
+  currentLevel: 0

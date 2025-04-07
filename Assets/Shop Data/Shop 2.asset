@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f124fc7abd5a82c4f94e632b9714448b, type: 3}
+  m_Name: Shop 2
+  m_EditorClassIdentifier: 
+  shopType: 2
+  shopId: 2
+  shopName: HealthRegen
+  shopDesc:
+  - Recovers 0.1 HP per second
+  - Recovers 0.2 HP per second
+  - Recovers 0.3 HP per second
+  - Recovers 0.4 HP per second
+  - Recovers 0.5 HP per second
+  shopIcon: {fileID: 846943515, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
+  baseNumber: 1
+  baseGold: 200
+  Numbers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  Golds: c8000000900100005802000020030000e8030000
+  isMaxed: 0
+  currentLevel: 0

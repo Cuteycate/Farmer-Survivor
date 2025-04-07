@@ -36,32 +36,20 @@ MonoBehaviour:
 
 '
   itemIcon: {fileID: -1323163944, guid: d71a3dc7aa20fad4f9a99fc76a9254ba, type: 3}
-  baseDamage: 10
+  baseDamage: 5
   baseCount: 1
   basePenetration: 1
-  baseCoolDown: 3
-  baseSize: 0
-  HitCooldown: 0.1
   damages:
   - 0
   - 0
   - 0
-  - 0.2
-  - 0
-  - 0.3
+  - 0.5
   - 0.5
   - 1
+  - 1
+  - 2
   counts: 0000000001000000010000000000000001000000000000000100000000000000
   penetrations: 0000000000000000000000000100000000000000000000000100000000000000
-  sizes:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
   projectiles: {fileID: 0}
   HitEffect: {fileID: 3055892998958464220, guid: f0178a1535a5472409cfa6c67c59c393, type: 3}
   hand: {fileID: 0}
